@@ -1,5 +1,5 @@
 <!-- ✅ Banner Image -->
-<img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-a0d8-6230-8e03-3223fdb88658/raw?se=2025-06-25T07%3A56%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=bf8f1417-8edd-5d63-8e13-431a78144e93&skoid=1e6af1bf-6b08-4a04-8919-15773e7e7024&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-24T23%3A57%3A22Z&ske=2025-06-25T23%3A57%3A22Z&sks=b&skv=2024-08-04&sig=H9y/FZrDucHtKbddjPs0nND6QZeCof06znoYEwkcwqo%3D" alt="Banner" />
+<img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-a0d8-6230-8e03-3223fdb88658/raw?se=2025-06-25T07%3A56%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=bf8f1417-8edd-5d63-8e13-431a78144e93&skoid=1e6af1bf-6b08-4a04-8919-15773e7e7024&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-24T23%3A57%3A22Z&ske=2025-06-25T23%3A57%3A22Z&sks=b&skv=2024-08-04&sig=H9y/FZrDucHtKbddjPs0nND6QZeCof06znoYEwkcwqo%3D" alt="Banner"  />
 
 <h1 align="center">Hi there, I'm Minhaz 👋</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
