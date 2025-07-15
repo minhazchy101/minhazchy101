@@ -14,6 +14,14 @@ I love learning new tools, solving real-world problems, and turning ideas into d
 
 ---
 
+## 📄 Portfolio, Resume & LinkedIn
+
+- 🌐 [Portfolio](minhaz-chy.web.app)
+- 📄 [Resume](https://drive.google.com/file/d/1J-5Y9TYy0Favyror1fDlbK4gZf_GfZTK/view)
+- 💼 [LinkedIn](https://www.linkedin.com/in/minhazchy/)
+
+---
+
 ### 🔭 Currently I'm:
 
 - 💼 Practicing **Web Development** using the MERN stack  
