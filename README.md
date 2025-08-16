@@ -14,11 +14,10 @@ I love learning new tools, solving real-world problems, and turning ideas into d
 
 ---
 
-## 📄 Portfolio, Resume & LinkedIn
+## 📄 Portfolio & Resume
 
 - 🌐 [Portfolio](minhaz-chy.web.app)
 - 📄 [Resume](https://drive.google.com/file/d/1J-5Y9TYy0Favyror1fDlbK4gZf_GfZTK/view)
-- 💼 [LinkedIn](https://www.linkedin.com/in/minhazchy/)
 
 ---
 
@@ -48,6 +47,7 @@ I love learning new tools, solving real-world problems, and turning ideas into d
 
 ## 🌐 Socials
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minhazchowdhury101@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/minhazchy/)
 
 ---
 
